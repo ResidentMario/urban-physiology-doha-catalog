@@ -1,0 +1,3762 @@
+[
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2015/Bulletin_Births_Deaths_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2010/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/1999/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_1999.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2002/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2015/3_Vital_Statistics_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2001/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2001.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2011/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2003/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2013/Bulletin_Births_Deaths_2013_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2008/Analyticalsummaryofbirthsanddeaths_QSA_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2015/birth_death_2015_EN.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2012/Bulletin_Births_Deaths_2012_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2014/Vital_Statistics_Annual_Bulletin_Births_and_Deaths_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2005/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2009/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2006/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2004/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2004.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2009/Births_Deaths_Foetal_Deaths_QSA_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2007/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/BirthsDeaths/2000/Births_Deaths_Foetal_Deaths_QSA_AnBu_AE_2000.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_38_Mar_2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_40_May_2017_poster.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_39_Apr_2017_poster.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_41_Jun_2017_poster.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_38_Mar_2017_poster.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_40_May_2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_2016_1_jan.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_2016_6_June.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_37_Feb_2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_37_Feb_2017_poster.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_2016_6_June_Poster.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_39_Apr_2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_34_Nov_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_42_July_2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_42_July_2017_poster.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_36_Jan_2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_2016_7_July_Poster.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_2016_7_July.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_36_Jan_2017_poster.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QMS/QMS_MDPS_41_Jun_2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/Hotels_and_Resturants_QSA_AnBu_AE_2000.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/2015/Hotels_Resturants_MDPS_AnBu_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/2011/Hotels_and_Resturants_QSA_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/2015/7_Hotels_and_Resturants_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/Hotels_and_Resturants_QSA_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/2014/Hotels_and_Resturants_MDPS_AnBu_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/Hotels_and_Resturants_QSA_AnBu_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/2014/7_Hotels_and_Resturants_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/Hotels_and_Resturants_QSA_AnBu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/2013/Hotels_and_Resturants_QSA_AnBu_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/Hotels_and_Resturants_QSA_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/2010/Hotels_and_Resturants_QSA_AnBu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/Hotels_and_Resturants_QSA_AnBu_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/2012/Hotels_and_Resturants_QSA_AnBu_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/HotelsandRestaurants/Hotels_and_Resturants_QSA_AnBu_AE_2004_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/PhysicalClimate/physical_Climate_Features_2016_AE.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/PhysicalClimate/physical_Climate_Features_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/PhysicalClimate/Physical_and_Climate_Features_MDPS_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/PhysicalClimate/physical_Climate_Features_2015_AE.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/PhysicalClimate/physical_Climate_Features_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/PhysicalClimate/Environment_Climate_QSA_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/PhysicalClimate/physical_Climate_Features_2014_AE.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/PhysicalClimate/Physical_and_Climate_Features_MDPS_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/PhysicalClimate/Physical_and_Climate_Features_MDPS_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/PhysicalClimate/physical_Climate_Features_2014_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/HouseholdIncomeAndExpenditure/2013/Household_Expenditure_Income_Survey_QSA_Bu_AE_2006_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/HouseholdIncomeAndExpenditure/2013/Household_Expenditure_Income_Survey_QSA_Bu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/HouseholdIncomeAndExpenditure/2013/Household_Expenditure_2012_2013_Eng.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/HouseholdIncomeAndExpenditure/2013/Living-Conditions-2012-2013-En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/Environment_QSA_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/environment-brochure-2013-Eng.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/Environment_11_2014_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/Environment_MDPS_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/EnvDay2017En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/Environment_Statistics_Annual_Report_2013_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/Environment_MDPS_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/Environment_QSA_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/Environment_QSA_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/Environment_QSA_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/Environment_MDPS_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/EnvironmentalStatistics/Environmental2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/ServicesOfCivilSociety/2016/ServicesofCivil2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/ServicesOfCivilSociety/2013/10_ServicesofCivil2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/ServicesOfCivilSociety/2014/10_ServicesofCivil2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/ServicesOfCivilSociety/2012/10_ServicesofCivil2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/ServicesOfCivilSociety/2015/ServicesofCivil2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignInvestment/2010/Foreign_Investment_QSA_AnBu_E_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignInvestment/2013/FI_Survey2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignInvestment/2015/FDI2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/Business_Services_QSA_AnBu_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/2015/11_Business_Services_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/2013/Business_Services_QSA_AnBu_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/Business_Services_QSA_AnBu_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/2010/Business_Services_QSA_AnBu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/Business_Services_QSA_AnBu_AE_2004_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/Business_Services_QSA_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/Business_Services_QSA_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/Business_Services_QSA_AnBu_AE_2000.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/2012/Annual_Bulletin_Business_Services_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/Business_Services_QSA_AnBu_AE_2001.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/Business_Services_QSA_AnBu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/Business_Services_QSA_AnBu_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/2014/Business_Services_Annual_Bulletin_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BusinessServices/2011/Business_Services_QSA_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/Population_Households_Establishment_QSA_Census_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/Population_Housing_Census_Bu_A_ 1986.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/Establishments_Census_Bu_A_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/Population_Housing_Census_Bu_AE_ 2004.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/Outcome_Analysis_of_Census_of_Population_Housing_and_Establishments_2015_en.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/Establishments_Census_Bu_AE_2004.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/Population_Houing_Census_Bu_A_1997.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/Establishments_Census_Bu_A_1997.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/BookletofCensus_QSA_census_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/Population_Households_Establishment_QSA_Census_AE_2010_1.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/Census/Establishments_Census_Bu_A_1986.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2011/Analytical_Summary_Marriage_Divorce_2011_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2005/Marriages_Divorces_AnBu_AE_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2001/Marriages_Divorces_AnBu_AE_2001.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2000/Marriages_Divorces_AnBu_AE_2000.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2015/3_Vital_Statistics_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2015/Bulletin_Marriages_Divorces_DB_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2015/Analytical_Summary_Marriage_and_Divorce_2015_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2003/Marriages_Divorces_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2013/Marriages_Divorces_DB_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2008/Marriages_Divorces_QSA_AnBu_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2012/Marriages_Divorces_QSA_AnBu_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2007/Marriages_Dicorces_AnBu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2011/Marriages_Divorces_QSA_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2009/Analyticalsummaryofmarriageanddivorse_QSA_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2004/Marriages_Dicorces_AnBu_AE_2004.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2002/Marriages_Divorces_AnBu_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2009/Marriages_Divorces_QSA_AnBu_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2006/Marriages_Divorces_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2014/Bulletin_Marriages_Divorces_DB_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/MarriagesDivorces/2010/Marriages_Divorces_QSA_AnBu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2016/Q4/CCl-Q4-2016-EN.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2014/Q1/CCI-Q1-Mar-2014-En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/BCI/2016/Q2/BCI-Q2-2016-Ar.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/BCI/2016/Q1/BCI_Q1_2016_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2015/Q3/CCI_Q3_2015_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2015/Q4/CCI_Q4_2015_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/BCI/2015/Q3/BCI-Q3-2015-En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/BCI/2015/Q4/Business_Confidence_Index_Qatar_Q4_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/BCI/2015/Q1/BCI-Q1-2015-Ar.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2014/Q4/CCI-Q4-Dec-2014-En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2016/Q2/Eco_CCl_Q2_2016_EN.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2016/Q3/Eco_CCl_Q3_2016_EN.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/BCI/2016/Q3/BCI-Q3-2016-En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/BCI/2016/Q3/BCI-Q3-2016-Ar.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/BCI/2016/Q4/BCI-Q4-2016-EN.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2015/Q2/CCI_Q2_2015_Ar.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2016/Q1/CCI_Q1_2016_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2015/Q1/CCI-Q1-Mar-2015-Ar.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/CCI/2014/Q2/CCI-Q2-June-2014-Ar.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ConfidenceIndex/BCI/2015/Q2/BCI_Q2_2015_Ar.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/2011/Wholesale_Retail_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/2014/Wholsale_Retail_MDPS_AnBu_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_AnBu_AE_1997.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_AnBu_AE_1998.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_AnBu_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/2014/6_Wholesale_Retail_Trade_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/2012/Wholesale-Retail-Trade-2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_QSA_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/2009/Wholesale_Retail_AnBu_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_QSA_AnBu_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_QSA_AnBu_AE_2004-2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_AnBu_AE_2001.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_QSA_AnBu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_AnBu_AE_2000.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/2015/6_Wholesale_Retail_Trade_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/Wholesale_Retail_AnBu_AE_1999.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/2013/WholesaleRetailTrade_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/WholesaleTrade/2015/Wholesale_Retail_Trade_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2006/Education_Annual_Statistics_Report_SEC_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2009/Schools_and_Schooling_in_Qatar_SEC_Bu_AE_2008_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2005/Schools_and_Schooling_in_Qatar_SEC_Bu_AE_2005_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2007/Education_Annual_Statistics_Report_SEC_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2016/Education_Chapter_4_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2014/Education_Chapter_4_2014_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2006/Schools_and_Schooling_in_Qatar_SEC_Bu_AE_2005_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2008/Schools_and_Schooling_in_Qatar_SEC_Bu_AE_2008_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2008/Schools_and_Schooling_in_Qatar_SEC_Bu_AE_2007_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2005/Education_Annual_Statistics_Report_SEC_AE_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2013/4_1Education2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2008/Education_Annual_Statistics_Report_SEC_AE_2008_0.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2015/Soc_Education_Chapter_AnAb_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Education/2012/Soc_Education_Chapter_AnAb_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Training/2014/5_Trainning2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Training/2013/5_Trainning_2013.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Training/2015/Trainning_5_2015_AE.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Training/2008/Summary_Training_Data_QSA_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Training/2015/Trainning_5_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Training/2013/5_Trainning_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Training/2009/Summary_Training_Data_QSA_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/2014/Banks_Insurance_MDPS_AnBu_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/2013/Banks_Insurance_MDPS_AnBu_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/2012/Banks_Insurance_MDPS_AnBu_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_2005_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/2011/Banks_Insurance_QSA_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_1998.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/2014/10_Banks_Insurance_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_1999.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_2004.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_2001.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_2000.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/2015/10_Banks_Insurance_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/2010/Banks_Insurance_QSA_AnBu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/BankingandInsurance/Banks_Insurance_QSA_AnBu_AE_1997.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/MediaCultureTourism/2014/Media_cul_Tourism_8-2014_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/MediaCultureTourism/2016/cultural_statistics_2016_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/MediaCultureTourism/2015/MediaCultureTourism_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/MediaCultureTourism/2013/Media_cul_Tourism_8-2013_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/MediaCultureTourism/2014/CulturalStatistics2014Qatar-Eng.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/2011/Building_Construction_QSA_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/Building_Construction_QSA_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/2014/Construction_Publication _ 2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/Building_Construction_QSA_AnBu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/2014/5_Building_Construction_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/Building_Construction_QSA_AnBu_AE_2004.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/Building_Construction_QSA_AnBu_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/2010/Building_Construction_QSA_AnBu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/2013/Future_Demand_of_Building_Materials_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/2015/Building_Construction_MDPS_AnBu_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/Building_Construction_QSA_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/Building_Construction_QSA_AnBu_AE_2000.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/2015/5_Building_Construction_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/Building_Construction_QSA_AnBu_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/2012/Building_Construction_MDPS_AnBu_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/2013/Construction_Publication_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/Building_Construction_QSA_AnBu_AE_2001.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/Building_Construction_QSA_AnBu_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Construction/Building_Construction_QSA_AnBu_AE_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Agriculture/2012/Eco_Agriculture_Chapter_AnAb_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Agriculture/2014/1_Agricultural2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Agriculture/2013/Eco_Agriculture_Chapter_AnAb_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/Water/2013/EnglishLayout.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/Water/2015/Water-Statistics-2015-En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Environmental/Water/2013/Water-Statistics-2013-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/PopulationAndSocial/2016/Q3/Quarterly_Bulletin_Social_and_Population_AE_Q3_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/PopulationAndSocial/2016/Q1/Quarterly_Bulletin_Social_and_Population_AE_Q1_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/PopulationAndSocial/2014/Population_soical_1_2014_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/MenWomenProfile/2014/WomanAndMan2014_en.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/MenWomenProfile/Women_Men_Statistical_Profile_QSA_Bu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/PopulationAndSocial/2014/Population_soical_1_2014_AE.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/QatarSocialStatistics/QatarSocialStatisticsWEB.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/QatarSocialStatistics/2014/QatarSocialStatistics-2003-2012-Pub-May-2014-Eng.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/PopulationAndSocial/2016/Q4/SocialPopQ42016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/PopulationAndSocial/2016/Q2/Quarterly_Bulletin_Social_and_Population_AE_Q2_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/MenWomenProfile/Women_Men_Statistical_Profile_QSA_Bu_A_2004.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/MenWomenProfile/2016/Woman_Man_2016_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/MenWomenProfile/2012/WomanandManinTheStateofQatar2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": []
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/MenWomenProfile/Women_Men_Statistical_Profile_QSA_Bu_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/GenrealSocialStatistics/MenWomenProfile/Women_Men_Statistical_Profile_QSA_Bu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ElectricityAndWater/2013/Eco_Electricity_Chapter_AnAb_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ElectricityAndWater/2014/4-Electricity2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ElectricityAndWater/2014/4-Electricity_2014_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ElectricityAndWater/2012/Eco_Electricity_Chapter_AnAb_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ElectricityAndWater/2015/4-Electricity_2014_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/GlanceOnEconomicStatistics/2012/The-Annual-Bulletin-of-Economic-Statistics-2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/CompiledEconomicStatisticsBulletin/The-Annual-Bulletin-of-Economic-Statistics-2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2015/Window_of_Economic_Statistics_MDPS_AE_Q2_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2012/Window_of_Economic_Statistics_QSA_AE_Q3_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2016/WinEconomicStat_18th_Issue_Q3_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2016/WinEconomicStat_19th_Issue_Q4_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2013/WindowsQatar_2013_Issue5.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2014/WindowsQatar_2014_Issue8.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2016/Econ_Window_on_Statistics_Q2_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2014/WindowsQatar_2014_Issue9.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2013/WindowsQatar_2013_Issue4.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2014/WindowEconomicStatistics-11th-Issue-Q4-2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2014/WindowEconomicStatistics-10th-Issue-Q3-2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2013/WindowsQatar_2013_Issue6.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2013/WindowsQatar_2013_Issue7.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2015/EconDevQ42015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2015/Window_on_Economic_Statitics_Q3_2015_AE_MDPS.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2016/Windows16thIssue.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2012/Window_of_Economic_Statistics_QSA_AE_Q4_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2015/Window12thissue(3).pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/GeneralEconomicStatistics/windowonstatistics/2012/Window_of_Economic_Statistics_QSA_AE_Q1_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/JudicialAndSecurity/2015/Judicial_and_Security_Service_Chapter_7_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/JudicialAndSecurity/2014/Security2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/JudicialAndSecurity/2013/Soc_Judicial_and_Security_Service_Chapter_AnAb_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/JudicialAndSecurity/2012/Soc_Judicial_and_Security_Service_Chapter_AnAb_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/JudicialAndSecurity/2016/7_Security_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/FT_Feb _2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/FT_june_2017_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2016/FTQ32016En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2016/Q1/Exports_by_Commodity_Q1_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/FT_Mar_2017_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2016/Sep/Eco_Foriegn_Trade_AE_Sep_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2016/Oct/FT_MDPS_October_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/Exports Classified by Cmmodity (HS) Q1-2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/Imports Classified by Country of Origin Q1-2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2016/Dec/Eco_Foriegn_Trade_AE_Dec_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2016/Q1/Exports_by_Country_Q1_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/Imports Classified by Cmmodity (HS) Q1-2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/Exports Classified by Country of Destination Q1-2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/FT_JAN_2017.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/FT_Q1_2017_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/FT_May_2017_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2017/FT_Apr_2017_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2016/Q4/ExportsReExportsbyCountryDestination.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2016/Q4/ImportsClassifiedbyCommodity.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/ForeignTrade/2016/Nov/FT_Nov_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/TimeUsage/2013/TimeUseSurvey-En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_MDPS_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/2012/Industrial_Statistics_MDPS_AnBu_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_1985.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_1984.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_1981.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_1982.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/2013/Industrial_Statistics_MDPS_AnBu_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_1980.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/2015/Annual_Bulletin_Industry_Energy_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_2004_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/2014/IndustryAndEnergyStatistics_2014_.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_1983.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_2009_1.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/EnergyandIndustry/Industrial_Statistics_QSA_AnBu_AE_2000.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Sport/PublicReluctance/2014/Public-Reluctance-En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Sport/SportDay/2012/Sport-Day-2012-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Sport/2011/Report_on_Sports_Development_2010_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Sport/2014/sport_12_2014_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Sport/2015/sport_12_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Sport/SportDay/2013/Sport-Day-2013-En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Sport/2016/sport_12_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/EmploymentWagesAndWorkingHours/2005/Employment_Wages_Working_Hours_QSA_Bu_AE_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2016/Oct/Building_Permits_Oct_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2017/Apr/Building-Permits-Apr-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2016/Jun/BuildingPermitsJune2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/BldgPermitsNov2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2017/mar/Building-Permits-mar-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2016/Mar/Building-Permits-Mar-2016-AE-MDPS.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2016/Feb/Building-Permits-Feb-2016-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2016/Dec/Building_Permits_Dec_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2015/Jun/BuildingsPermitsStatistics-June-2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2016/Jul/Building-Permits-July-2016-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2016/Aug/Building-Permits-Aug-2016-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2016/Sep/Building-Permits-Sep-2016-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2015/Mar/BuildingsPermitsStatistics-Mar-2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2017/feb/Building-Permits-Feb-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2017/Jan/Building-Permits-Jan-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2016/Apr/BuildingPermitsApril2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2015/May/BuildingsPermitsStatistics-May-2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2017/May/Building-Permits-May-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2017/Jun/Building-Permits-Jun-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/permitsandbldgcompleted/2016/May/Building_Permits_May_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/SpecialNeeds/2016/9_Disabilities2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/SpecialNeeds/2013/9_Disabilities2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/SpecialNeeds/2014/9_Disabilities2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/SpecialNeeds/2015/9_Disabilities2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/Labour_force_2_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2015/economic-chapters/10_Banks_Insurance_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2015/population-chapters/Health_6_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2015/economic-chapters/2_Mining_and_quarrying_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/physical_Climate_Features_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/economic-chapters/9_FT_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/Population_social_1_2016_AE.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/9_Disabilities2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/Labour_force_2016_AE.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/sport_12_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/Education_Chapter_4_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2015/economic-chapters/11_Business_Services_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2015/economic-chapters/3_MANUFACTURING_STATISTICS_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2015/economic-chapters/12_Social_and_Personal_Services_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/Labour_force_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/ServicesofCivil2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2015/population-chapters/11_Environmental2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/Population_social_1_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/economic-chapters/Price_and_Index_QSA_14_AE_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/7_Security_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2016/population-chapters/physical_Climate_Features_2016_AE.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/StatisticalAbstract/2015/population-chapters/12_Sport2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/2010/Social_and_Personal_Services_QSA_AnBu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/Social_and_Personal_Services_AnBu_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/2014/Social_and_Personal_Services_MDPS_AnBu_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/Social_and_Personal_Services_AnBu_AE_2000.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/Social_and_Personal_Services_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/Social_and_Personal_Services_AnBu_AE_2001.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/Social_and_Personal_Services_QSA_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/Social_and_Personal_Services_QSA_AnBu_AE_2004-2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/2014/11_Social_and_Personal_Services_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/2012/Social_and_Personal_Services_QSA_AnBu_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/Social_and_Personal_Services_QSA_AnBu_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/2013/Social_and_Personal_Services_QSA_AnBu_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/2015/12_Social_and_Personal_Services_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/Social_and_Personal_Services_QSA_AnBu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/SocialPerson2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/SocialandPersonalServices/2011/Social_and_Personal_Services_QSA_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/Transport_and_Communication_QSA_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/Transport_and_Communication_QSA_AnBu_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/Transport_and_Communication_AnBu_AE_2001.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/2010/Transport_and_Communication_QSA_AnBu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/Transport_and_Communication_QSA_AnBu_AE_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/2012/Transport_and_Communication_MDPS_AnBu_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/Transport_and_Communication_QSA_AnBu_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/Transport_and_Communication_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/Transport_and_Communication_AnBu_AE_2000.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/2011/Transport_and_Communication_QSA_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/2014/Transport_Communications_Annual_Bulletin_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/Transport_and_Communication_QSA_AnBu_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/2015/Transport_Communications_AnBu_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/Transport_and_Communication_AnBu_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/2013/8-Transport-Communications-2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/2015/9_Transport_and_Communication_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/TransportCommunications/2014/9_Transport_and_Communication_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/Navigation_QSA_AnBu_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/Navigation_QSA_AnBu_AE_2001.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/2014/NavigationTraffic_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/Navigation_QSA_AnBu_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/Navigation_QSA_AnBu_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/Navigation_QSA_AnBu_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/2013/Maritime_Navigation_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/2013/NavigationTraffic_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/Navigation_QSA_AnBu_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/Navigation_QSA_AnBu_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/2016/Navigation_Traffic_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/Navigation_MDPS_AnBu_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/maritimenavigation/Navigation_QSA_AnBu_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QIF/Qatar_in_Figures_MDPS_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QIF/Qatar_in_Figures_MDPS_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QIF/Qatar_in_Figures_MDPS_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QIF/Qatar_in_Figures_MDPS_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QIF/Qatar_in_Figures_MDPS_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QIF/Qatar_in_Figures_MDPS_AE_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QIF/Qatar_in_Figures_MDPS_AE_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/General/QIF/Qatar_in_Figures_MDPS_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2016/Labour_force_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2016/Q3/LF_Q3_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2014/Quarterly/Q4/LF_Q4_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2014/Quarterly/Q1/LF_Q1_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2014/Quarterly/Q2/LF_Q2_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2015/LF_Stat_Analysis_2015_Ar.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2016/Q1/LaborForce-Quarter1-2016-webreport.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2014/Annual Bulletin/Bulletin_labor_force_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2015/LaborForce2015.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2015/Labour_force_2_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2014/Quarterly/Q3/LF_Q3_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2015/Q2/LF-Q2-2015-AE-MDPS.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2014/Quarterly/Q1/LF_Q1_2014.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2016/Labour_force_2_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2016/Labour_force_2016_AE.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2016/Q2/LF_Q2_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2015/Q4/Labor_Force_Quarter_Q4_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2015/Q1/LF_Q1_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2015/Q3/LF-Q3-2015-AE-MDPS.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2015/LaborForce2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2014/Quarterly/Q2/LF_Q2_2014.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2015/Q1/LF_Q1_2015.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2016/Q1/LaborForce-Quarter1-2016-webreport.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2014/Annual Bulletin/Labour_Force_Statistics_MDPS_Bu_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2014/Quarterly/Q3/LF_Q3_2014.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2014/Labour_force_2_2014_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/LaborForce/2017/LaborForce-Quarter1-2017-webreport.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2016/Q4/GDP_Q4_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2016/Q1/GrossDomesticProduct_Q1_2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2014/Q2/GDP_Q2_2014_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2015/Q3/GDP_Q3_2015_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/NationalAccounts/2016/National_Accounts_MDPS_Bu_AE_2016.pdf.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2016/Q3/GDP_Q3_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2014/Q4/GDP-Exp-Q4-2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2015/Q2/GDPQ2_ENGLISH.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2014/Q1/GDP_Q1_2014_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2014/Q3/GDP-Q3-2014-Eng.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2017/Q1/GDP_Q1_2017_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2015/Q1/GDP_Exp_Q1_2015_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2015/Q4/GDP-Q4-2015-En-MDPS.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2016/Q2/GDP_Q2_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2015/Q1/GDP-Q1-2015-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/NationalAccounts/2015/National-Accounts-Bulletin-2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2014/Q1/GDP-Expenditure-Q1-2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2016/Q1/RevisedEstimatesofGrossDomesticProduct_2011_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2014/Q2/SEA-TotalEconomy-Q2-2014-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/NationalAccounts/GDP/2014/Q3/GDP-Exp-Q3-2014-Eng.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/CPI/2017/Jun/CPI-June-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/CPI/2017/JAN/CPI-JAN-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/IPI/2017/IPI_Q1_2017_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/MEPI/2016/MEPIFirstHalf2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/PPI/2017/Apr/PPI-Apr-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/CPI/2017/mar/CPI -Mar- 2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/CPI/2016/Q4/CPI-Q4-2016-E.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/CPI/2016/Q2/CPI_Q2_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/PPI/2016/Q1/PPI-Q1-2016-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/PPI/2017/MAY/PPI-May-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/CPI/2017/Apr/CPI-Apr-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/CPI/2017/Jun/CPI-June-2017-Q1-EN.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/PPI/2017/Mar/PPI-mar-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/CPI/2016/June/CPIJune2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/PPI/2016/May/PPIMay2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/PPI/2017/feb/PPI-feb-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/PPI/2017/jan/PPI_ Jan_ 2017_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/PPI/2016/Apr/PPIApril2016.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/CPI/2017/feb/CPI-Feb-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Economic/Priceindices/CPI/2017/may/CPI-May-2017-AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2011/Health_Annual_Health_Report_SCH_AE_2011.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": []
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2010/Health_Qatar_Health_Trends_SCH_E_2001_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2007/Health_Annual_Health_Report_SCH_AE_2007.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": []
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2002/Health_Annual_Health_Report_HMC_AE_2002.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2008/Health_Annual_Health_Report_SCH_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2013/Health_6_2013_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/MICS/2012/MICS-2012-Eng.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/Gats/2013/GATS-BOOK.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2003/Health_Annual_Health_Report_HMC_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2010/Health_Annual_Health_Report_SCH_AE_2010.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2015/Health_6_2015_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2006/Health_Annual_Health_Report_SCH_AE_2006.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2009/Health_Annual_Health_Report_SCH_AE_2009.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2005/Health_Annual_Health_Report_SCH_AE_2005.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/Gats/2013/GATS-Qatar_FactSheet.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/Stepwise/2012/STEPwise_Report_QSA_SCH_WHO_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2014/Health_6_2014_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2003/Health_Annual_Health_Report_SCH_AE_2003.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/Health/2008/Health_Annual_Health_Report_HMC_AE_2008.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/RAndD/2012/RD-Survey-2012-2013-En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Social/RAndD/2015/RD_Qatar_2015_En.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/Population/2014/Pop_Population_Chapter_AnAb_AE_2014.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/Population/2015/1_Population_2015.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/Population/2015/1_Population_2015.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/Population/2017/Sukkan (E) 35th Issue.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/Population/2016/SukkanEn34.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/Population/2014/Pop_Population_Chapter_AnAb_AE_2014.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/Population/2016/Population_social_1_2016_AE.xls",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/Population/2016/Population_social_1_2016_AE.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/Population/2013/Pop_Population_Chapter_AnAb_AE_2013.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    },
+    {
+        "resource": "http://www.mdps.gov.qa/en/statistics/Statistical Releases/Population/Population/2012/Pop_Population_Chapter_AnAb_AE_2012.pdf",
+        "domain": "http://www.mdps.gov.qa/en/statistics1/Pages/default.aspx",
+        "flags": [
+            "processed"
+        ]
+    }
+]
